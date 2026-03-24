@@ -1,16 +1,26 @@
-## Hi there 👋
+🔭 I’m currently working on
+- Building small full-stack and AI-based projects
+- Improving my coding and problem-solving skills
 
-<!--
-**NEERaj966/NEERaj966** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👯 I’m looking to collaborate on
+- Beginner-friendly open source projects
+- AI/ML or web development projects
 
-Here are some ideas to get you started:
+🤝 I’m looking for help with
+- Advanced AI/ML concepts
+- Building real-world projects
+- Improving DSA and coding efficiency
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning
+- Artificial Intelligence & Machine Learning
+- Python (NumPy, Pandas revision)
+- Data Structures and Algorithms
+
+💬 Ask me about
+- C and C++
+- Basic Python
+- Problem-solving approaches
+- Explaining concepts in simple ways
+
+⚡ Fun fact
+- I enjoy teaching others and helping them understand concepts easily
